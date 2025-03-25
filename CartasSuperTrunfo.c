@@ -60,4 +60,4 @@ int main()
     printf("Estado:%s \nCodigo da carta:%s \nNome da cidade:%s \n", estado2,codigoCarta2,nomeCidade2);
     printf("Tamanho da população: %d abitantes \nArea em km: %.2f Km \nPIB: R$ %.2f reais  \nNumero de pontos turísticos: %d \n", populacao2,areaKm2,PIB2, PontosTuristicos2);
     
-}
+} 
